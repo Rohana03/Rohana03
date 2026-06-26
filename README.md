@@ -33,5 +33,5 @@
 * 🌾 AgroLanka – Agricultural Management Platform
 * 🎬 CineCritix – Movie Rental & Review System
 * ⛽ IoT Gas Leak Detector
-* 📄 Sinhala OCR for Land Documents
+
 
