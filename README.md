@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Rohana! 👋
 
-<!--
-**Rohana03/Rohana03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **IT Undergraduate** passionate about building impactful software and continuously expanding my technical expertise.
 
-Here are some ideas to get you started:
+💻 **Aspiring Software Engineer** with interests in **Full-Stack Development, Artificial Intelligence, Machine Learning, and Cybersecurity**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+* 🌐 MERN Stack (MongoDB, Express.js, React, Node.js)
+* ☕ Java
+* 🐍 Python
+* ⚡ Flask
+* 🗄️ MySQL & MongoDB
+* 🔧 Git & GitHub
+
+## 🤖 Interests
+
+* Artificial Intelligence
+* Machine Learning & Deep Learning
+* Cybersecurity
+* OCR & Computer Vision
+* Internet of Things (IoT)
+
+## 🌱 Currently Learning
+
+* AI & Deep Learning
+* Cybersecurity Fundamentals
+* Cloud Computing
+* System Design
+
+## 📂 Featured Projects
+
+* 🌾 AgroLanka – Agricultural Management Platform
+* 🎬 CineCritix – Movie Rental & Review System
+* ⛽ IoT Gas Leak Detector
+* 📄 Sinhala OCR for Land Documents
+
